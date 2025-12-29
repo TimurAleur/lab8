@@ -157,6 +157,6 @@ void main(void) {
 
 /*«адачи из лабораторного практикума*/
 /*ƒополнительные изменени€ дл€ задани€*/
-Deystviya dlya conflicta
-Ne obrashayte vnimaniya
+VTOROY CONFLICT
+PROSTO TAK
 
